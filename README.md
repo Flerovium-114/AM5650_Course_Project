@@ -1,5 +1,4 @@
 # AM5650_Course_Project - On the Onset and Control of Chaos in Hysteretic Systems Using the Bouc–Wen Model
-
 This repository contains the **MATLAB** codes for the course project for the course AM5650 - Non-Linear Dynamics. 
 The main idea of the course project was to replicate the results of the paper Ngouoko et al. (2021) and provide an 
 extension to it. MATLAB's stiff ode solver, *ode15s* is used for solving the non-linear ode. There is quite a number of files - 
